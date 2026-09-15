@@ -1,4 +1,9 @@
-# Compiler Construction - Lex Tool Assignment
+# Compiler Construction - Lex Tool Assignment - Group 10
+144861 - Kiome Ian Mutuma
+169275 - Louis Muiyoro Karanja
+158716 - Mwangi Mary Queenvine Muthoni
+146414 - Wesly Ryan Mugele
+134976 - Emmanuel Keter
 
 This repository contains the solution for the Compiler Construction assignment on Lexical Analysis using Lex/Flex.
 
