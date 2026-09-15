@@ -1,9 +1,15 @@
 # Compiler Construction - Lex Tool Assignment - Group 10
 144861 - Kiome Ian Mutuma
+
 169275 - Louis Muiyoro Karanja
+
 158716 - Mwangi Mary Queenvine Muthoni
+
 146414 - Wesly Ryan Mugele
+
 134976 - Emmanuel Keter
+
+103023 - Mbai Njeke Silver
 
 This repository contains the solution for the Compiler Construction assignment on Lexical Analysis using Lex/Flex.
 
@@ -13,12 +19,6 @@ This repository contains the solution for the Compiler Construction assignment o
 - `test.txt` — Sample C input file tested by the lexical analyzer.
 - `example1_scanner.l` — Scanner specification for Example 1 (Integers and Identifiers).
 - `example2_3_scanner.l` — Scanner specification for Examples 2 & 3 (Keywords, Operators, Delimiters).
-
-## How to Run
-
-### Prerequisites
-- `flex` (or `win_flex`)
-- `gcc` compiler
 
 ### Compilation & Execution
 
